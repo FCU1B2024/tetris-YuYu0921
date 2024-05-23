@@ -1,2 +1,3 @@
 ﻿  Ukraine.c
-  teris.vcxproj -> C:\Users\User\Desktop\teris\x64\Debug\teris.exe
+C:\Users\User\Desktop\tetris\Ukraine.c(385,21): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  teris.vcxproj -> C:\Users\User\Desktop\tetris\x64\Debug\teris.exe
